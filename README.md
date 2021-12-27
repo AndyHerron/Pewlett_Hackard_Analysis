@@ -50,6 +50,7 @@ ORDER BY emp_no;`
 ## Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 
 ### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+<<<<<<< HEAD
 	It is unclear from the information that we have been provided as to how soon the employees in question will actually retire.  It will likely be spread out over several years, 
 but that is good because it will give management more time to react and implement their plans to bring on new staff.  The number of employees who were born from 1952 through 1955 is
 approximately one-fourth of their total number of employees.  There are over 75,000 employees who were born from January 1, 1952 through December 31, 1955.  The number of total employees
@@ -59,3 +60,10 @@ in the 'employees.csv' database is 300,024.
 	Based upon the numbers that we've already determined, there are only 1,549 current employees eligible for the mentorship program and more than 75,000 who are leaving.  That's way more potential
 teachers than students.  The number of 'mentees' should be significantly increased to try to retain as much of the company's knowledge base as possible.  Every retiring employee who walks out the 
 door without doing some type of mentorship is an opportunity lost.
+=======
+It is unclear from the information that we have been provided as to how soon the employees in question will actually retire.  It will likely be spread out over several years, 
+but that is good because it will give management more time to react and implement their plans to bring on new staff.  The number of employees who were born from 1952 through 1955 is approximately one-fourth of their total number of employees.  There are over 75,000 employees who were born from January 1, 1952 through December 31, 1955.  The number of total employees in the 'employees.csv' database is 300,024.
+
+### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+Based upon the numbers that we've already determined, there are only 1,549 current employees eligible for the mentorship program and more than 75,000 who are leaving.  That's way more potential teachers than students.  The number of 'mentees' should be significantly increased to try to retain as much of the company's knowledge base as possible.  Every retiring employee who walks out the door without doing some type of mentorship is an opportunity lost.
+>>>>>>> e1380e333da45b5650ac5ce9ba55883290b90dd6
