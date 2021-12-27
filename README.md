@@ -1,23 +1,19 @@
 # Pewlett-Hackard employee database analysis
 
 ## Overview of analysis
-Pewlett-Hackard is a huge company with a large number of employees who are about to reach retirement eligibility.  Company management has tasked us to compile some lists of data that
-will help them deal with that situation.  They need to know how many employees are about to retire and from which departments, so that they may determine how to best move forward with
-replacing those employees.
+Pewlett-Hackard is a huge company with a large number of employees who are about to reach retirement eligibility.  Company management has tasked us to compile some lists of data that will help them deal with that situation.  They need to know how many employees are about to retire and from which departments, so that they may determine how to best move forward with replacing those employees.
 
 
 ### Resources
 * Data Sources: departments.csv, dept_manager.csv, dept_emp.csv, employees.csv, salaries.csv, titles.csv
 * Software: pgAdmin 4, PostgreSQL
-
+![flowchart of databases](https://github.com/AndyHerron/Pewlett_Hackard_Analysis/blob/main/EmployeeDB2.png.png)
 
 ## Results
 
 ### Highlight four major points from the analysis
-![PyBer summary dataframe](https://github.com/AndyHerron/PyBer_Analysis/blob/main/Resources/PyBer_summary_df.png)
 
 * major point number 1
-
 
 * major point number 2
 
